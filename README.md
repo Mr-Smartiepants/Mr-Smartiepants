@@ -1,16 +1,68 @@
-## Hi there 👋
+# Stefan Weißgerber
 
-<!--
-**Mr-Smartiepants/Mr-Smartiepants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Developer mit Hintergrund im Gesundheitswesen und Führungserfahrung.
 
-Here are some ideas to get you started:
+Nach über 10 Jahren im Gesundheitswesen habe ich mich bewusst für einen Wechsel in die Softwareentwicklung entschieden und eine verkürzte Ausbildung zum Fachinformatiker für Anwendungsentwicklung abgeschlossen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mein Fokus liegt auf strukturierten, wartbaren Backend-Systemen mit sauberer Trennung von Logik und Darstellung.
+
+---
+
+## Tech Stack
+
+- Python (Flask)
+- MariaDB / MySQL
+- JavaScript
+- HTML / CSS
+- Git
+- Grundkenntnisse Kubernetes
+
+---
+
+## Aktuelle Schwerpunkte
+
+- Backend-Entwicklung mit Flask
+- REST-API Design
+- Rollenbasierte Zugriffskonzepte
+- Saubere Projektstruktur & Wartbarkeit
+- Automatisierung von Workflows
+
+---
+
+## Projekte
+
+### 📌 Zeitschriftenverwaltungssystem (ZVS)
+Full-Stack-Webanwendung zur Verwaltung und Ausleihe von Zeitschriften mit Rollen- und Scan-Workflow.
+
+Tech: Flask, MariaDB, JavaScript
+
+👉 https://github.com/Mr-Smartiepants/ZVS
+
+---
+
+### 📌 AutoBerichtsheft
+Automatisierung der Berichtsheftführung mittels Python & Selenium zur Reduzierung manueller Routineprozesse.
+
+Tech: Python, Selenium
+
+👉 https://github.com/Mr-Smartiepants/AutoBerichtsheft
+
+---
+
+## Arbeitsweise
+
+- Strukturiertes Vorgehen
+- Klare Trennung von Verantwortlichkeiten
+- Praxisorientierte Lösungen
+- Lernorientiert und kontinuierliche Weiterentwicklung
+
+---
+
+## Aktuell auf der Suche nach
+
+Junior Python / Backend Developer Position im Raum Würzburg oder Remote.
+
+---
+
+📫 Kontakt:  
+LinkedIn / E-Mail im Lebenslauf
