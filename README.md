@@ -49,6 +49,16 @@ Tech: Python, Selenium
 
 ---
 
+### 📌 MacSymbolCheatsheet
+
+Menu bar app that provides a searchable cheatsheet for macOS special characters and keyboard shortcuts. 
+
+Tech: Swift, SwiftUI
+
+👉 https://github.com/Mr-Smartiepants/mac-symbol-cheatsheet
+
+---
+
 ## Arbeitsweise
 
 - Strukturiertes Vorgehen
